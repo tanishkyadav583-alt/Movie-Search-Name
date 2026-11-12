@@ -1,0 +1,2 @@
+# Movie-Search-Name
+A responsive Movie Search App built using HTML, CSS, and JavaScript with the OMDb API. Users can search for movies, view posters, release years, IMDb ratings, and detailed information including director, actors, genre, and plot.
